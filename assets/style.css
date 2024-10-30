@@ -8,6 +8,7 @@
 
 body {
     overflow: hidden;
+    display: none;
 }
 
 h1,
