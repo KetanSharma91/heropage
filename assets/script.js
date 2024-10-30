@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function() {
+            document.body.style.display = 'block'; // Show the content
+        });
+
 window.addEventListener('load', function () {
   init();
 });
